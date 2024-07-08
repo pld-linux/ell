@@ -5,12 +5,12 @@
 Summary:	Embedded Linux Library
 Summary(pl.UTF-8):	Embedded Linux Library - biblioteka osadzonego Linuksa
 Name:		ell
-Version:	0.66
+Version:	0.67
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	https://www.kernel.org/pub/linux/libs/ell/%{name}-%{version}.tar.xz
-# Source0-md5:	d48a9c5a798c458cbc65c15d11a31d11
+# Source0-md5:	69d84b73096dcba85b2c382b44aec2ec
 URL:		https://git.kernel.org/pub/scm/libs/ell/ell.git/
 BuildRequires:	autoconf >= 2.69
 BuildRequires:	automake
